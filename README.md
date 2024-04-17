@@ -4,6 +4,8 @@
 
 自己修改过的安装包，可共存，不会升级到WinUI3版。目前只有x64版本。
 
+[蓝奏云](https://firedoge.lanzoue.com/i1Yju1vglgcd)
+
 已知问题：
 
 - 最小化后不会自动挂起
