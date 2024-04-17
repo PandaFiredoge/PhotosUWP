@@ -11,6 +11,7 @@
 - 磁贴会炸
 
 ## 打包方法：
+安装包获取可以到[这个网站](https://store.rg-adguard.net)
 
 解包与去更新请参考[从网易云UWP说起：修改AppManifest阻止UWP自动更新/多版本共存](https://zhuanlan.zhihu.com/p/146393154)
 
